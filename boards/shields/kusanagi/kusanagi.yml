@@ -1,0 +1,14 @@
+file_format: "1"
+id: kusanagi
+name: kusanagi
+type: shield
+url: https://github.com/neelflanagan/zmk-config/tree/main
+requires: [pro_micro]
+features:
+  - keys
+  - studio
+siblings:
+  - kusanagi
+outputs:
+  - usb
+  - ble
